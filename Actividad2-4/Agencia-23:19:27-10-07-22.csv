@@ -1,0 +1,8 @@
+Marca,SubMarca,Modelo,Version,Precio,Transmision,Carroceria,Puertas,Combustible,Motor,Llantas,PortaObjetos
+BMW,Z4,2016,sDriver35is,68899.99,Manual,Cabrio,2,Gasolina,"{""CC"":2979,""Litros"":3,""Cilindros"":6}","{""Ancho"":225,""Perfil"":40,""Indice"":""W""}","[""Sujetavasos"",""Consola"",""Caja Portabjetos""]"
+FERRARI,GTC4,2018,Lusso DCT,307120.8,Manual,Berlina,3,Gasolina,"{""CC"":6262,""Litros"":6.3,""Cilindros"":12}","{""Ancho"":245,""Perfil"":35,""Indice"":""Y""}","[""Sujetavasos"",""Consola"",""Caja Portaobjetos""]"
+JAGUAR,XK,2017,3.0 Diesel SWB Luxury,88800,Automatico,Sedan,4,Diesel,"{""CC"":2993,""Litros"":3,""Cilindros"":6}","{""Ancho"":245,""Perfil"":50,""Indice"":""Y""}","[""Sujetavasos"",""Consola""]"
+LAMBORGHINI,Aventador,2015,6.5 V12 LP 750-4 Superveloce,444160,Manual,Coupe,2,Gasolina,"{""CC"":6498,""Litros"":6.5,""Cilindros"":12}","{""Ancho"":255,""Perfil"":30,""Indice"":""Y""}","[""Consola""]"
+MERCEDES,CLASE SLK,2015,SLK 250 CDI,47975.9,Manual,Cabrio,2,Diesel,"{""CC"":2143,""Litros"":2.1,""Cilindros"":4}","{""Ancho"":225,""Perfil"":45,""Indice"":""W""}","[""Consola"",""Caja Portaobjetos""]"
+PORSCHE,Boxter,2011,Spyder,92442,Manual,Cabrio,2,Gasolina,"{""CC"":3800,""Litros"":3.8,""Cilindros"":6}","{""Ancho"":235,""Perfil"":35,""Indice"":""Y""}","[""Sujetavasos"",""Consola""]"
+ROLLS-ROYCE,Phantom,2012,Phantom,457717.83,Automatico,Sedan,4,Gasolina,"{""CC"":6749,""Litros"":6.7,""Cilindros"":12}","{""Ancho"":255,""Perfil"":50,""Indice"":""W""}","[""Compartimiento Refrijerado"",""Sujetavasos"",""Consola""]"

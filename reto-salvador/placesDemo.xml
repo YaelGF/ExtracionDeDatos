@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<places>
+  <place place_id="2039">
+    <name>ESTACION DE SERVICIO CALAFIA, S.A. DE C.V.</name>
+    <cre_id>PL/658/EXP/ES/2015</cre_id>
+    
+      <longitud>-116.9214</longitud>
+      <latitud>32.47641</latitud>
+    
+  </place>
+  <place place_id="15681">
+    <name>ESTACION DE SERVICIO SANTA ANA SA DE CV</name>
+    <cre_id>PL/13083/EXP/ES/2016</cre_id>
+    
+      <longitud>-98.29815</longitud>
+      <latitud>20.15697</latitud>
+    
+  </place>
+  <place place_id="15687">
+    <name>ENRIQUE OROZCO RIOS</name>
+    <cre_id>PL/13092/EXP/ES/2016</cre_id>
+    
+      <longitud>-102.2195</longitud>
+      <latitud>19.83693</latitud>
+    
+  </place>
+    <place place_id="2879">
+    <name>ESTACION SANTA MARIA EL PARAISO SA DE CV</name>
+    <cre_id>PL/1161/EXP/ES/2015</cre_id>
+    
+      <longitud>-98.35171</longitud>
+      <latitud>20.07401</latitud>
+    
+  </place>
+  <place place_id="3244">
+    <name>ESTACION SANTA MARIA LA JOYA SA DE CV</name>
+    <cre_id>PL/1960/EXP/ES/2015</cre_id>
+    
+      <longitud>-98.39498</longitud>
+      <latitud>20.07131</latitud>
+    
+  </place>
+  <place place_id="14343">
+    <name>COMERCIALIZADORA AGROPECUARIA R10, S. P. R. DE R.L</name>
+    <cre_id>PL/12737/EXP/ES/2015</cre_id>
+    
+      <longitud>-98.35796</longitud>
+      <latitud>20.12878</latitud>
+    
+  </place>
+</places>
