@@ -1,0 +1,434 @@
+matricula,11111111
+nombre,Alumno 1
+grupo,TI11
+Materia 1,1
+Materia 2,8
+Materia 3,1
+Materia 4,7
+Materia 5,2
+Materia 5,2
+estado,regular
+matricula,11111112
+nombre,Alumno 2
+grupo,TI11
+Materia 1,10
+Materia 2,7
+Materia 3,1
+Materia 4,8
+Materia 5,5
+estado,regular
+matricula,11111113
+nombre,Alumno 3
+grupo,TI11
+Materia 1,
+Materia 2,1
+Materia 3,1
+Materia 4,3
+Materia 5,0
+estado,regular
+matricula,11111114
+nombre,Alumno 4
+grupo,TI11
+Materia 1,
+Materia 2,4
+Materia 3,3
+Materia 4,2
+Materia 5,7
+estado,regular
+matricula,11111115
+nombre,Alumno 5
+grupo,TI11
+Materia 1,9
+Materia 2,10
+Materia 3,3
+Materia 4,9
+Materia 5,2
+estado,regular
+matricula,11111116
+nombre,Alumno 6
+grupo,TI11
+Materia 1,1
+Materia 2,3
+Materia 3,8
+Materia 4,1
+Materia 5,7
+estado,regular
+matricula,11111117
+nombre,Alumno 7
+grupo,TI11
+Materia 1,4
+Materia 2,7
+Materia 3,1
+Materia 4,6
+Materia 5,5
+estado,regular
+matricula,11111118
+nombre,Alumno 8
+grupo,TI11
+Materia 1,10
+Materia 2,1
+Materia 3,7
+Materia 4,10
+Materia 5,0
+estado,regular
+matricula,11111119
+nombre,Alumno 9
+grupo,TI11
+Materia 1,5
+Materia 2,5
+Materia 3,4
+Materia 4,0
+Materia 5,3
+estado,regular
+matricula,11111120
+nombre,Alumno 10
+grupo,TI11
+Materia 1,5
+Materia 2,7
+Materia 3,3
+Materia 4,3
+Materia 5,4
+estado,regular
+matricula,11111121
+nombre,Alumno 11
+grupo,TI11
+Materia 1,6
+Materia 2,1
+Materia 3,3
+Materia 4,7
+Materia 5,0
+estado,regular
+matricula,11111122
+nombre,Alumno 12
+grupo,TI11
+Materia 1,7
+Materia 2,2
+Materia 3,5
+Materia 4,4
+Materia 5,5
+Materia 4,4
+Materia 5,5
+estado,regular
+matricula,11111123
+nombre,Alumno 13
+grupo,TI12
+Materia 1,5
+Materia 2,2
+Materia 3,3
+Materia 4,0
+Materia 5,1
+estado,regular
+matricula,11111124
+nombre,Alumno 14
+grupo,TI12
+Materia 1,5
+Materia 2,2
+Materia 3,10
+Materia 4,0
+Materia 5,6
+estado,regular
+matricula,11111125
+nombre,Alumno 15
+grupo,TI12
+Materia 1,9
+Materia 2,9
+Materia 3,1
+Materia 4,3
+Materia 5,1
+estado,regular
+matricula,11111126
+nombre,Alumno 16
+grupo,TI12
+Materia 1,1
+Materia 2,2
+Materia 3,1
+Materia 4,7
+Materia 5,7
+estado,regular
+matricula,11111127
+nombre,Alumno 17
+grupo,TI12
+Materia 1,0
+Materia 2,2
+Materia 3,1
+Materia 4,0
+Materia 5,2
+estado,regular
+matricula,11111128
+nombre,Alumno 18
+grupo,TI12
+Materia 1,0
+Materia 2,1
+Materia 3,4
+Materia 4,7
+Materia 5,6
+estado,regular
+matricula,11111129
+nombre,Alumno 19
+grupo,TI12
+Materia 1,0
+Materia 2,8
+Materia 3,7
+Materia 4,8
+Materia 5,2
+estado,regular
+matricula,11111130
+nombre,Alumno 20
+grupo,TI12
+Materia 1,4
+Materia 2,0
+Materia 3,5
+Materia 4,0
+Materia 5,4
+estado,regular
+matricula,11111131
+nombre,Alumno 21
+grupo,TI12
+Materia 1,6
+Materia 2,4
+Materia 3,2
+Materia 4,10
+Materia 5,10
+estado,regular
+matricula,11111132
+nombre,Alumno 22
+grupo,TI12
+Materia 1,5
+Materia 2,6
+Materia 3,9
+Materia 4,0
+Materia 5,3
+estado,regular
+matricula,11111133
+nombre,Alumno 23
+grupo,TI12
+Materia 1,1
+Materia 2,9
+Materia 3,7
+Materia 4,7
+Materia 5,6
+estado,regular
+matricula,11111134
+nombre,Alumno 24
+grupo,TI41
+Materia 1,4
+Materia 2,0
+Materia 3,10
+Materia 4,7
+Materia 5,0
+estado,regular
+matricula,11111135
+nombre,Alumno 25
+grupo,TI41
+Materia 1,3
+Materia 2,3
+Materia 3,0
+Materia 4,8
+Materia 5,5
+estado,regular
+matricula,11111136
+nombre,Alumno 26
+grupo,TI41
+Materia 1,0
+Materia 2,5
+Materia 3,7
+Materia 4,2
+estado,regular
+matricula,11111137
+nombre,Alumno 27
+grupo,TI41
+Materia 1,0
+Materia 2,0
+Materia 3,6
+Materia 4,0
+Materia 5,5
+estado,regular
+matricula,11111138
+nombre,Alumno 28
+grupo,TI41
+Materia 1,9
+Materia 2,3
+Materia 3,10
+Materia 4,9
+Materia 5,6
+estado,regular
+matricula,11111139
+nombre,Alumno 29
+grupo,TI41
+Materia 1,0
+Materia 2,5
+Materia 3,1
+Materia 4,10
+Materia 5,1
+estado,regular
+matricula,11111140
+nombre,Alumno 30
+grupo,TI41
+Materia 1,3
+Materia 2,3
+Materia 3,5
+Materia 4,9
+Materia 5,9
+estado,regular
+matricula,11111141
+nombre,Alumno 31
+grupo,TI41
+Materia 1,10
+Materia 2,10
+Materia 3,4
+Materia 4,1
+Materia 5,4
+estado,regular
+matricula,11111142
+nombre,Alumno 32
+grupo,TI41
+Materia 1,6
+Materia 2,0
+Materia 3,5
+Materia 4,3
+Materia 5,2
+estado,regular
+matricula,11111143
+nombre,Alumno 33
+grupo,IDGS91
+Materia 1,0
+Materia 2,4
+Materia 3,1
+Materia 4,7
+Materia 5,9
+estado,regular
+matricula,11111144
+nombre,Alumno 34
+grupo,IDGS91
+Materia 1,1
+Materia 2,1
+Materia 3,2
+Materia 4,3
+Materia 5,8
+estado,regular
+matricula,11111145
+nombre,Alumno 35
+grupo,IDGS91
+Materia 1,0
+Materia 2,7
+Materia 3,10
+Materia 4,7
+Materia 5,7
+estado,regular
+matricula,11111146
+nombre,Alumno 36
+grupo,IDGS91
+Materia 1,7
+Materia 2,1
+Materia 3,4
+Materia 4,0
+Materia 5,6
+matricula,11111147
+nombre,Alumno 37
+grupo,IDGS91
+Materia 1,6
+Materia 2,6
+Materia 3,4
+Materia 4,3
+Materia 5,0
+estado,regular
+matricula,11111148
+nombre,Alumno 38
+grupo,IDGS91
+Materia 1,0
+Materia 2,6
+Materia 3,6
+Materia 4,3
+Materia 5,5
+estado,regular
+matricula,11111149
+nombre,Alumno 39
+grupo,IDGS91
+Materia 1,8
+Materia 2,7
+Materia 3,9
+Materia 4,5
+Materia 5,2
+estado,regular
+matricula,11111150
+nombre,Alumno 40
+grupo,IDGS91
+Materia 1,1
+Materia 2,0
+Materia 3,3
+Materia 4,4
+Materia 5,10
+estado,regular
+matricula,11111151
+nombre,Alumno 41
+grupo,IDGS91
+Materia 1,6
+Materia 2,5
+Materia 3,1
+Materia 4,5
+Materia 5,9
+estado,regular
+matricula,11111152
+nombre,Alumno 42
+grupo,IDGS91
+Materia 1,2
+Materia 2,0
+Materia 3,9
+Materia 4,9
+Materia 5,5
+estado,regular
+matricula,11111153
+nombre,Alumno 43
+grupo,IDGS91
+Materia 1,3
+Materia 2,4
+Materia 3,0
+Materia 4,0
+Materia 5,0
+estado,regular
+matricula,11111154
+nombre,Alumno 44
+grupo,IDGS91
+Materia 1,3
+Materia 2,1
+Materia 3,1
+Materia 4,7
+Materia 5,10
+estado,regular
+matricula,11111155
+nombre,Alumno 45
+grupo,IDGS91
+Materia 1,4
+Materia 2,1
+Materia 3,2
+Materia 4,8
+Materia 5,6
+estado,regular
+matricula,11111156
+nombre,Alumno 46
+grupo,IDGS71
+Materia 1,10
+Materia 2,1
+Materia 3,10
+Materia 4,0
+Materia 5,7
+estado,regular
+matricula,11111157
+nombre,Alumno 47
+grupo,IDGS71
+Materia 1,9
+Materia 2,10
+Materia 3,1
+Materia 4,3
+Materia 5,9
+estado,regular
+matricula,11111158
+nombre,Alumno 48
+grupo,IDGS71
+Materia 1,4
+Materia 2,4
+Materia 3,10
+Materia 4,6
+Materia 5,8
+Materia 6,10
+estado,regular
